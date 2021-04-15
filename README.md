@@ -4,7 +4,7 @@ All code written for Quantum Computing &amp; Information (Dartmouth PHYS 75).
 
 PROGRESS
 
-I've finished describing the protocol (Section 2). Working the actual quantum code now.
+I've finished describing the protocol (Section 2), as well as some of the Qiskit implementation (Section 3.1-3.2).
 
 -Aidan
 
