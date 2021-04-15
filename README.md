@@ -4,7 +4,7 @@ All code written for Quantum Computing &amp; Information (Dartmouth PHYS 75).
 
 PROGRESS
 
-I've gotten most of the way towards describing the protocol (Section 2). Seems like this is all pretty straightforward. Will put in more time this weekend.
+I've finished describing the protocol (Section 2). Working the actual quantum code now.
 
 -Aidan
 
